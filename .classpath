@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/ant-junit.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/ant-junit4.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/cssparser-0.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/guava-14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/htmlunit-2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/htmlunit-core-js-2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/httpmime-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/json-20080701.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/operadriver-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/phantomjsdriver-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/selenium-java-2.32.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/selenium-java-2.32.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/selenium-server-standalone-2.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/javamail1_4_7.zip"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/jexcelapi_2_6_12.zip"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/log4j-1.2.17.zip"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/poi-bin-3.9-20121203.zip"/>
+	<classpathentry kind="lib" path="D:/Work/Competency Building/Test Automation Tools/02. Selenium Test Automation/Complete List of Jar files/poi-src-3.9-20121203.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

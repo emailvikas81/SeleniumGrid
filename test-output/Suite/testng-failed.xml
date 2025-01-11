@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browser" value="ie"/>
+  <test name="IETest(failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="multiBrowser.MultiBrowserTest">
+        <methods>
+          <include name="login"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- multiBrowser.MultiBrowserTest -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+  <test name="ChromeTest(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="multiBrowser.MultiBrowserTest">
+        <methods>
+          <include name="login"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- multiBrowser.MultiBrowserTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
